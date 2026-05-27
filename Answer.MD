@@ -152,6 +152,7 @@ Updated
 
 ```log
 # 請在此處貼上 git log 內容
+06c7a96 (HEAD -> master) B11109052
 ```
 
 ### 4.2. GitHub Repository 連結(此小題7分)
